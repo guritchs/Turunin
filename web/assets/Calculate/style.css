@@ -1,0 +1,46 @@
+#wrapper {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 18px;
+  position: relative;
+  top: 85px;
+  right: 100px;
+  left: 0px;
+  background: hsl(0, 0%, 100%)
+
+  
+}
+header {
+  top: 30px;
+
+}
+#h1-link {
+  color: #030303;
+  text-decoration: underline, solid;
+}
+form {
+  display: flex;
+  font-family: 'Inter Tight';
+  font-size: 14px;
+}
+label {
+  padding: 3px;
+}
+input {
+  font-family: 'Inter Tight';
+  font-size: 20px;
+  padding: 3px;
+}
+input[type="text"] {
+  flex: 1;
+}
+
+
+#derivative {
+  padding: 10px;
+  text-align: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  font-size: 25px;
+}
