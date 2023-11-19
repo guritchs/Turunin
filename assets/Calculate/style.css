@@ -28,7 +28,7 @@ label {
 }
 input {
   font-family: 'Inter Tight';
-  font-size: 20px;
+  font-size: 15px;
   padding: 3px;
 }
 input[type="text"] {
